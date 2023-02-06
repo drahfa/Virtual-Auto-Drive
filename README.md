@@ -1,5 +1,17 @@
 # GTA5-driverless-car
 
+## Readme for 2023 version
+
+Some modification and restructuring were done from the previous codes by Matt, which is self-explanatory.
+The updates will be made from time to time.
+
+Before you start, on cmd, don't forget to install pypiwin32 and matlabengine for python
+> python -m pip install pypiwin32
+> python -m pip install matlabengine
+
+Cheers, Faisal
+
+## Readme for 2018 version
 Code for training and running a CNN to drive a car in GTA5 using MATLAB
 
 The idea came from Sentdex (https://github.com/Sentdex/pygta5) from his implementation in Python.
