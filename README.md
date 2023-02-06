@@ -5,6 +5,8 @@
 Some modification and restructuring were done from the previous codes by Matt, which is self-explanatory.
 The updates will be made from time to time.
 
+For this project, I'm using Python 3.10.6 
+
 Before you start, on cmd, don't forget to install pypiwin32 and matlabengine for python
 > python -m pip install pypiwin32
 
