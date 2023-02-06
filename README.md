@@ -1,4 +1,5 @@
 # GTA5-driverless-car
+
 Code for training and running a CNN to drive a car in GTA5 using MATLAB
 
 The idea came from Sentdex (https://github.com/Sentdex/pygta5) from his implementation in Python.
@@ -17,4 +18,3 @@ The code consists of 6 main files:
 
 6 - Key_press.py - Python script to simulated pressed keyboard keys (taken from  http://stackoverflow.com/questions/14489013/simulate-python-keypresses-for-controlling-a-game)
 
-I cannot upload any of the CNNs i have trained as they are too large.
