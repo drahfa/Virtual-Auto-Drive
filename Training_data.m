@@ -1,4 +1,5 @@
 %Matt Viney - 21/01/18
+%Faisal Ayob - 6/2/2023
 
 %Program to store GTA V images into 1 of 3 categories:
 %Forward - when only forward or no button is pressed
@@ -13,7 +14,7 @@
 %videoPlayer = vision.VideoPlayer('Position', [960, 300, 820, 630]); 
 
 %Iteration number for new folder for current iterations image storage
-iteration_number = '4';
+iteration_number = '1';
 
 %5 second Countdown
 z=5;
@@ -52,19 +53,19 @@ while(1)
     
     if direction == 'F'
         %If Forward key was pressed, store to Forward folder
-        imwrite(frame, strcat('C:\Users\Matt\Documents\MATLAB\GTA V\Training_images'...
+        imwrite(frame, strcat('D:\Github\GTA5-driverless-car\Training_images'...
             ,iteration_number,  '\Forward\image_', num2str(i), '.jpg'));
         i=i+1;
         
     elseif direction == 'R'
         %If Right key was pressed, store to Right folder
-        imwrite(frame, strcat('C:\Users\Matt\Documents\MATLAB\GTA V\Training_images'...
+        imwrite(frame, strcat('D:\Github\GTA5-driverless-car\Training_images'...
             ,iteration_number,  '\Right\image_', num2str(j), '.jpg'));
         j=j+1;
         
     elseif direction == 'L'
         %If Left key was pressed, store to Left folder
-        imwrite(frame, strcat('C:\Users\Matt\Documents\MATLAB\GTA V\Training_images'...
+        imwrite(frame, strcat('D:\Github\GTA5-driverless-car\Training_images'...
             ,iteration_number,  '\Left\image_', num2str(k), '.jpg'));
         k=k+1;
         
