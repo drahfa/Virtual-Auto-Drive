@@ -18,8 +18,6 @@ Cheers, Faisal
 
 7 January 2020 - Begin writing this readme.txt
 
-7 February 2023 - Added MATLAB requirements and Extras
-
 ### Matlab Requirements
 - Deep Learning Toolbox
 - Image Processing Toolbox
