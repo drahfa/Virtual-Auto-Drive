@@ -20,15 +20,15 @@ Cheers, Faisal
 
 7 February 2023 - Added MATLAB requirements and Extras
 
-Matlab Requirements
+### Matlab Requirements
 - Deep Learning Toolbox
 - Image Processing Toolbox
 
-Extras (if you are running GTA V)
+### Extras (if you are running GTA V)
 - in the 'extras' folder, find the commandline.txt file and place it within the root of GTA V installation e.g. D:\SteamLibrary\steamapps\common\Grand Theft Auto V\
 - commandline.txt shall resize GTA V to 800 600 resolution
 
-Installation notes
+### Installation notes
 
 1. Install the supported Python for Matlab. As of typing, the supported Python version for the use within Matlab is 3.7
 
