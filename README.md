@@ -2,10 +2,10 @@
 
 ## Readme for 2023 version
 
-Some modification and restructuring were done from the previous codes by Matt in 2018, which is self-explanatory.
+Some modification and restructuring were done from the previous codes in 2020, which is self-explanatory.
 The updates will be made from time to time.
 
-For this project, I'm using Python 3.10.6 and MATLAB R2022b
+For 2023, I'm using Python 3.10.6 and MATLAB R2022b
 
 Before you start, on cmd, don't forget to install pypiwin32 and matlabengine for python
 > python -m pip install pypiwin32
@@ -17,17 +17,16 @@ Cheers, Faisal
 ## Readme for 2020 version
 
 7 January 2020 - Begin writing this readme.txt
-7 February 2023 - Added MATLAB requirements and Extras
 
-Matlab Requirements
+### Matlab Requirements
 - Deep Learning Toolbox
 - Image Processing Toolbox
 
-Extras (if you are running GTA V)
+### Extras (if you are running GTA V)
 - in the 'extras' folder, find the commandline.txt file and place it within the root of GTA V installation e.g. D:\SteamLibrary\steamapps\common\Grand Theft Auto V\
 - commandline.txt shall resize GTA V to 800 600 resolution
 
-Installation notes
+### Installation notes
 
 1. Install the supported Python for Matlab. As of typing, the supported Python version for the use within Matlab is 3.7
 
