@@ -5,7 +5,7 @@
 Some modification and restructuring were done from the previous codes in 2020, which is self-explanatory.
 The updates will be made from time to time.
 
-For this project, I'm using Python 3.10.6 and MATLAB R2022b
+For 2023, I'm using Python 3.10.6 and MATLAB R2022b
 
 Before you start, on cmd, don't forget to install pypiwin32 and matlabengine for python
 > python -m pip install pypiwin32
@@ -17,6 +17,7 @@ Cheers, Faisal
 ## Readme for 2020 version
 
 7 January 2020 - Begin writing this readme.txt
+
 7 February 2023 - Added MATLAB requirements and Extras
 
 Matlab Requirements
